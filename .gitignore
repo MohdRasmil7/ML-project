@@ -1,4 +1,9 @@
 venv/
 .artifacts
 logs/
-mlproject.egg-info/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
